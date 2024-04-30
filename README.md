@@ -49,3 +49,4 @@ To test your code, implement the following in the __test.js__ file.
    seconds.</details>
    Solve the problem using `bind` to make sure that "John Wick is a Dog Lover"
    will be printed to the terminal after 3 seconds.
+# aa04-bind
