@@ -10,15 +10,17 @@ class Employee {
 
     sayName() {
 
-        console.log(`${name} says hello`);
+        console.log(`${this.name} says hello`);
 
     }
 
     sayOccupation() {
 
-        console.log(`${name} is a ${this.occupation}`);
+        console.log(`${this.name} is a ${this.occupation}`);
 
     }
+
+
 }
 
 module.exports = Employee;
